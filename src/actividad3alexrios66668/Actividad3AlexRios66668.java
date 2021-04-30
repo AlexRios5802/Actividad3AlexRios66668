@@ -298,7 +298,7 @@ public class Actividad3AlexRios66668 {
                     space();
                     break;
                 default:
-                    System.out.println("Este numero no estra en el rango establecido");
+                    System.out.println("Este numero no está en el rango establecido");
             }
         }
     }
